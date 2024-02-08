@@ -1,0 +1,11 @@
+cod_agencia;nome;endereco;bairro;CEP;cidade;uf;data_abertura;tipo_agencia
+7;Agência Digital;Av. Paulista, 1436 ; Cerqueira César; 01310916;São Paulo;SP;01/08/2015;Digital
+1;Agência Matriz;Av. Paulista, 1436 ; Cerqueira César; 01310916;São Paulo;SP;01/01/2010;Física
+2;Agência Tatuapé;Praça Sílvio Romero, 158 ; Tatuapé; 03323000;São Paulo;SP;14/06/2010;Física
+3;Agência Campinas;Av. Francisco Glicério, 895 ; Vila Lidia; 13012000;Campinas;SP;04/03/2012;Física
+4;Agência Osasco;Av. Antônio Carlos Costa, 1000 ; Bela Vista; 06053014;Osasco;SP;06/11/2013;Física
+5;Agência Porto Alegre;Av. Bento Gonçalves, 1924 ; Partenon; 90650000;Porto Alegre;RS;01/12/2013;Física
+6;Agência Rio de Janeiro;R. Sen. Dantas, 15 ; Centro; 20031202;Rio de Janeiro;RJ;01/04/2015;Física
+8;Agência Jardins;Av. Brg. Faria Lima, 2491 ; Jardim Paulistano; 01452000;São Paulo;SP;09/01/2018;Física
+9;Agência Florianópolis;Av. Jorn. Rubéns de Arruda Ramos, 1280 ; Centro; 88015700;Florianópolis;SC;09/10/2019;Física
+10;Agência Recife;Av. Conselheiro Aguiar, 4432 ; Boa Viagem; 51021020;Recife;PE;09/10/2021;Física

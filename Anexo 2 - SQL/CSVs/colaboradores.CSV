@@ -1,0 +1,101 @@
+cod_colaborador;nome_completo;email;cpf;data_nascimento;UF;cep
+14;Paulo Dias;melissalopes@example.net;847.210.695-02;24/04/1974; PE;27275674
+19;Luiz Fernando Dias;pcunha@example.net;820.415.963-33;10/07/1994; PB;50013962
+32;Vitor Hugo Dias;aragaonicolas@example.net;936.172.548-37;18/12/1986; RJ;08955215
+88;João Gabriel Lima;luiz-otaviorezende@example.org;967.082.451-67;19/10/1994; RR;24224305
+39;Maria Eduarda Melo;joao-pedro72@example.com;857.496.210-49;01/03/1996; RR;96896390
+41;Olivia Costa;sabrina59@example.com;190.768.435-20;30/01/1966; GO;90019993
+45;Laura Cunha;lviana@example.org;217.583.096-95;07/02/1977; RJ;19415341
+100;Lavínia Cunha;noahmoraes@example.com;062.937.158-02;24/03/1975; SE;74890752
+16;Benjamin Gomes;vjesus@example.org;718.950.436-20;21/12/1963; GO;29604844
+46;Alana Gomes;samuel76@example.com;768.134.950-20;16/07/1977; SE;88161168
+76;Ana Júlia Gomes;davi-luccacardoso@example.org;461.837.095-57;13/09/1985; RN;73793541
+64;Ana Júlia Jesus;thales22@example.com;265.931.407-16;15/06/1975; AM;85994735
+86;Eduarda Jesus;zmelo@example.com;260.431.897-04;28/10/1983; MS;53119377
+91;Emilly Jesus;freitascaroline@example.com;053.126.487-44;03/03/1985; ES;95399857
+4;Laís Lopes;diaslucas@example.org;269.580.741-49;14/10/1976; PA;07868885
+42;Enrico Lopes;oviana@example.com;196.574.038-39;23/03/1991; TO;98758451
+53;Helena Lopes;antoniomonteiro@example.org;928.706.341-96;08/10/1990; PB;48143984
+57;Lucca Lopes;das-nevesmaria-fernanda@example.org;697.351.804-48;21/02/1966; MT;04775545
+67;Luiz Henrique Lopes;davi-luiz75@example.net;538.697.210-30;28/05/1990; AM;95994401
+56;Julia Pinto;jalves@example.org;734.206.859-47;27/11/1985; DF;71279339
+31;Joaquim Pires;laispeixoto@example.org;104.263.875-62;12/06/1978; SE;51569010
+43;Marcelo Ramos;heitor34@example.org;279.438.056-74;13/11/1968; AP;74002728
+50;João Pedro Ramos;barbara58@example.com;814.096.532-42;09/04/1970; MS;36777821
+26;Luiz Henrique Rocha;rodriguesolivia@example.net;934.210.785-05;03/06/1974; CE;26210551
+36;Marcela Rocha;henriqueda-luz@example.com;503.247.891-14;16/07/1963; SE;42103068
+85;Pedro Lucas Rocha;pauloribeiro@example.org;305.687.219-77;07/12/1991; RR;12941395
+22;Davi Luiz Sales;leticia48@example.org;192.058.346-70;07/01/1979; DF;60281719
+54;João Gabriel Sales;emanuella17@example.net;784.290.531-23;23/04/1985; BA;16683185
+82;Mirella Sales;pedro-miguelda-rocha@example.org;097.435.216-07;13/11/1967; MA;62738233
+65;Sabrina Silva;luiz-gustavo49@example.org;652.307.918-02;15/02/1990; PE;75913235
+68;João Miguel Souza;icarvalho@example.com;627.134.095-43;14/10/1962; PI;98839500
+84;Pietro Souza;diogo68@example.org;136.078.249-40;31/03/1985; PB;92408486
+72;Noah Barros;martinsmarcos-vinicius@example.net;126.749.853-64;25/04/1991; MG;57387761
+62;Arthur Campos;oviana@example.org;381.657.092-59;28/12/1973; BA;16596292
+3;Kamilly Castro;correialivia@example.net;297.634.180-03;15/09/1975; SC;96322716
+17;Larissa Castro;asilva@example.com;137.405.962-52;19/05/1980; SC;71170459
+69;Helena Castro;caldeiragiovanna@example.org;714.309.582-60;05/10/1986; RJ;26544466
+98;Alana Castro;rodrigo08@example.org;825.140.697-85;06/03/1964; MS;36787854
+18;Maria Vitória Duarte;almeidacaroline@example.net;047.836.592-65;24/12/1963; PE;29043497
+81;Benício Farias;maria91@example.com;059.817.632-21;08/05/1976; AM;52447374
+38;Luigi Moraes;camposgiovanna@example.org;761.038.529-86;15/02/1981; PE;83417203
+63;Ana Clara Moraes;vitoriagomes@example.org;291.847.506-85;08/05/1981; CE;74407700
+10;Vitor Hugo Novaes;isisda-paz@example.org;187.053.296-12;19/06/1969; SC;75796270
+13;Maria Fernanda Novaes;milena41@example.net;942.718.605-49;13/04/1964; MS;96640825
+92;Eduarda Novaes;da-rochagustavo@example.com;961.452.703-06;19/12/1982; PE;54656513
+25;Lara Santos;pteixeira@example.com;768.541.203-90;13/05/1970; AM;68997717
+37;João Lucas Santos;araujoana-vitoria@example.net;813.769.540-01;04/07/1981; SE;75795729
+24;Vitória Vieira;pedro-henrique56@example.org;572.340.961-16;13/06/1989; PE;92847600
+44;Bruno da Paz;wmoura@example.org;534.062.971-61;30/10/1997; SC;64363566
+30;Arthur Almeida;joaquim97@example.org;057.264.198-20;16/01/1980; AC;69196806
+90;Cauê Almeida;wcampos@example.org;176.084.239-78;03/12/1993; MG;61301741
+20;Alice Aragão;pedro-henrique82@example.com;495.278.610-20;19/09/1964; RR;23821831
+74;Laís Aragão;stephanypeixoto@example.net;027.619.358-02;10/11/1991; PA;28501411
+29;Juan Barbosa;cavalcantithomas@example.org;403.527.198-50;09/10/1967; RJ;42832180
+83;Julia Barbosa;da-luzcarolina@example.com;149.853.026-51;04/11/1993; DF;41497222
+71;Gabriela Cardoso;arthur02@example.net;385.049.162-51;13/07/1967; RJ;08566439
+89;Camila Cardoso;silveiradaniela@example.org;461.203.589-51;21/10/1965; AM;65408812
+97;Nicolas Cardoso;costajoao-miguel@example.net;897.605.341-93;22/04/1969; CE;21980775
+21;Rafaela Correia;vitor-hugosales@example.org;390.752.168-40;24/03/1973; SP;03927555
+33;Elisa Correia;leandro34@example.net;965.832.147-09;23/02/1993; AP;50769513
+47;Maitê Correia;carlos-eduardo92@example.com;031.248.796-78;25/10/1978; PE;94709044
+6;Clarice Costela;lrezende@example.org;264.875.013-44;06/02/1977; MS;12204328
+99;Fernando Costela;osilveira@example.net;492.758.103-97;24/11/1963; RO;15164977
+23;Elisa Fogaça;qjesus@example.net;579.816.234-64;16/08/1988; ES;12605284
+96;Gustavo Martins;emilly44@example.com;790.245.683-74;02/09/1995; CE;97215561
+11;Camila Moreira;enzo-gabrielduarte@example.com;263.589.174-55;30/03/1970; SP;92857785
+7;Letícia Peixoto;igornovaes@example.net;396.071.582-02;10/09/1994; ES;92465328
+9;Diego Peixoto;valentinada-rocha@example.net;367.528.901-02;01/04/1969; BA;77896815
+40;Bryan Peixoto;kgomes@example.com;047.931.256-70;22/08/1975; AP;79262228
+52;Theo Peixoto;ncosta@example.net;578.310.962-21;10/10/1991; SE;47431701
+2;Clarice Ribeiro;noahcastro@example.org;091.367.842-22;10/11/1993; RN;05165716
+5;Emanuella Ribeiro;paulo12@example.org;714.695.380-75;01/06/1974; RS;22588498
+1;Lorena da Mata;luiz-felipefarias@example.org;843.201.579-23;31/01/1996; MT;69097997
+79;Pietro da Mata;luiza18@example.net;241.395.068-06;24/04/1973; AM;04555518
+48;Pietra da Mota;ianviana@example.net;452.389.017-04;16/11/1978; RN;71636333
+55;Ana Sophia da Mota;pedro-henrique85@example.com;205.719.486-85;16/05/1997; RO;79292091
+77;Sophie da Mota;livia08@example.net;672.598.143-73;13/04/1997; PR;53778703
+8;Vitor Gabriel Caldeira;csilva@example.net;853.624.091-15;11/07/1973; MT;66925534
+49;Pietra Caldeira;gustavo-henriquecastro@example.com;725.083.916-03;06/08/1977; AL;36084897
+61;Davi Lucca Carvalho;vcavalcanti@example.net;526.984.013-89;27/04/1963; MA;03745319
+58;Ana Julia Ferreira;lorena19@example.com;945.218.603-89;22/02/1994; TO;33395564
+75;Maria Fernanda Ferreira;vitor-hugoribeiro@example.net;283.076.541-90;13/07/1978; CE;01114589
+78;João Felipe Ferreira;fernando53@example.org;369.428.710-87;12/09/1976; GO;83982409
+51;Pedro Lucas Silveira;kda-cunha@example.com;823.456.790-00;24/12/1970; RR;87312248
+93;Yuri Silveira;barbarapereira@example.net;395.814.270-23;09/09/1980; RN;48093646
+87;Luna Teixeira;samuel34@example.org;403.762.985-29;06/04/1998; SC;53544065
+73;Lucas Gabriel da Costa;sophie99@example.net;749.536.012-70;08/03/1977; AC;80265890
+34;Daniela Fernandes;rezendemarcela@example.org;627.401.395-43;22/07/1996; PE;73390636
+59;Eloah Fernandes;ida-costa@example.org;486.321.970-96;10/09/1987; RO;73404769
+60;Sabrina Fernandes;pedro82@example.net;643.508.219-70;18/09/1993; MA;24300799
+15;Joana Rodrigues;erodrigues@example.net;480.756.921-01;21/05/1968; MT;92472266
+66;Lívia Rodrigues;estherdias@example.com;953.124.067-16;27/02/1992; SP;73034259
+12;Ana Lívia das Neves;milena37@example.net;182.045.369-33;23/09/1986; PR;12951292
+70;Paulo Cavalcanti;silveiraalicia@example.net;805.124.379-04;18/08/1966; SC;79567620
+95;Juliana Cavalcanti;gomesmanuela@example.org;309.764.251-06;18/05/1982; MS;52427851
+94;Melissa Gonçalves;caldeirasamuel@example.com;825.670.139-03;09/01/1971; TO;66939843
+28;Alexandre Nascimento;olivia97@example.org;719.360.824-03;12/01/1992; MA;42178150
+80;Clarice Nascimento;lorena74@example.org;956.104.283-51;01/12/1995; SC;40016475
+27;Marcela da Conceição;mcosta@example.com;139.467.025-70;14/05/1963; AM;66423556
+35;Ryan da Conceição;giovannacavalcanti@example.net;342.506.918-70;03/11/1989; PI;59741896
