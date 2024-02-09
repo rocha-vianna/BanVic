@@ -1,6 +1,6 @@
 # BanVic
 Projeto de análise de dados com um dataset fictício sobre um banco fictício chamado Banco Vitória SA (BanVic).
-
+<br></br>
 ANEXO 1 - EXCEL
 Conteúdo:
 base_excel.xlsx -- contém as tabelas já tratadas usadas para fazer as análises;
